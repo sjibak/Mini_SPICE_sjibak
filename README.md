@@ -1,5 +1,5 @@
-# Mini_SPICE
-Simplified Implementation of SPICE (Copy of original private repo)
+# Mini_SPICE (Copy of original private repo)
+Simplified Implementation of SPICE 
 
 Contributors: Jeet Sen Sarma, Jibak Sarkar 
 
